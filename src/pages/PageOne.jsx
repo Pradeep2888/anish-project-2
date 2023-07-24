@@ -97,8 +97,8 @@ function PageOne() {
                   </div>
             </section>
 
-            <section className='container6' >
-                  <div className='container6_text_area' >
+            <section className='container7' >
+                  <div className='container7_text_area' >
                       <p>Thank you ! Visit Again</p>
                   </div>
             </section>
