@@ -1,0 +1,531 @@
+
+/* google fonts start */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@200&family=Poppins:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@200&family=Poppins:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+
+/* google fonts ends */
+
+
+
+
+/* Page One */
+
+/* container 1 css start */
+
+
+
+
+.area {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.box1 {
+  width: 15%;
+  height: 100%;
+}
+
+.box2 {
+  height: auto;
+  width: 72%;
+}
+
+.box3 {
+  height: 100%;
+  width: 13%;
+}
+
+.box2>div>img {
+  height: 100%;
+  width: 100%;
+}
+
+.name_area {
+  transform: rotate(-19.775deg);
+  text-align: center;
+  position: relative;
+  right: 0vw;
+  left: 14vw;
+  top: -18.5vw;
+  width: 50%;
+  height: 0;
+}
+
+.name_area>p {
+  color: #FFF;
+  font-family: Bebas Neue;
+  font-size: 3.67vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.message_area {
+  transform: rotate(-18.995deg);
+  text-align: center;
+  position: relative;
+  right: 0vw;
+  left: 40vw;
+  top: -20vw;
+  width: 40%;
+  border: 1px solid erd;
+  height: 0;
+}
+
+.message_area>p {
+  color: #010101;
+  font-family: Inter;
+  font-size: 2.43vw;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  letter-spacing: 0.48vw;
+  text-transform: uppercase;
+}
+
+.follow_area {
+  transform: rotate(-18.995deg);
+  text-align: center;
+  position: relative;
+  right: 0vw;
+  left: 53vw;
+  top: -20.5vw;
+  width: 40%;
+  border: 1px solid erd;
+  height: 0;
+}
+
+.follow_area>p {
+  color: #010101;
+  font-family: Inter;
+  font-size: 2.43vw;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 8.4px;
+  text-transform: uppercase;
+}
+
+.box1_area1 {
+  width: 50%;
+  margin-left: auto;
+}
+
+.box1_area1>img {
+  width: 100%;
+  height: 100%;
+}
+
+.box1_area2 {
+  height: 100%;
+  text-align: left;
+  line-height: -1px;
+  width: 50%;
+  margin-top: 283%;
+  margin-left: auto;
+  transform: rotate(-21.387deg);
+}
+
+.box1_area2_p1 {
+  margin: 0;
+  color: #010101;
+  font-family: Poppins;
+  font-size: 4.15vw;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.box1_area2_p2 {
+  color: #010101;
+  font-family: Poppins;
+  font-size: 1.27vw;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-top: 0%;
+}
+
+
+/* container 1 css End */
+
+
+/* container 2 css Start */
+
+.container2_area {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 5%;
+  margin-right: 5%;
+  /* margin-top: -10rem; */
+}
+
+.container2_area_box1 {
+  width: 47%;
+  /* height: 100%; */
+}
+
+.container2_area_box2 {
+  width: 50%;
+}
+
+.container2_area_box1>div>img {
+  width: 100%;
+  height: 100%;
+}
+
+.avatar2_border {
+  position: relative;
+  top: -82%;
+  height: 78%;
+  width: 91%;
+  border-radius: 2vw;
+  margin: auto;
+  border: 1vw solid #FFF;
+}
+
+.avatar2_square {
+  border: 2.2vw solid rgba(255, 255, 255, 0.29);
+  -webkit-backdrop-filter: blur(7.5764007568359375px);
+  transform: rotate(-45deg);
+  width: 21vw;
+  height: 34%;
+  margin: inherit;
+  margin-top: 18%;
+}
+
+.container2_area_box2>div {
+  height: 82%;
+}
+
+
+.container2_area_box2_area_box_1 {
+  border-radius:14.16vw;
+  background: #140A29;
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  margin-top: 23%;
+}
+
+.container2_area_box2_area_box_1>p {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 3.399vw;
+  font-style: italic;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 0.33vw;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+
+.container2_area_box2_area_box_2 {
+padding-left: 2%;
+padding-right: 2%;
+margin-top: 15%;
+}
+
+.container2_area_box2_area_box_2>p{
+  color: #010101;
+text-align: center;
+font-family: Poppins;
+font-size: 1.98vw;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin: 0;
+}
+
+
+.container2_area_box2_area_box_3{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15%;
+}
+
+.container2_area_box2_area_box_3>div>p{
+  color: #010101;
+font-family: Poppins;
+font-size: 2.266vw;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+letter-spacing: 0.22vw;
+text-transform: uppercase;
+}
+
+
+
+
+
+/* container 2 css Ends */
+
+
+
+/* container 3 css Starts */
+
+
+.container3{
+  margin-top: -12%;
+  /* z-index: 1; */
+}
+.container3_area{
+  /* height: 100%; */
+  width: 100%;
+}
+.container3_area>img{
+  height: 100%;
+  width: 100%;
+}
+
+.container3_border{
+  position: absolute;
+  top: 142vw;
+  height: 57vw;
+  width: 93.5%;
+  margin-left: 3%;
+  margin-right: 3%;
+  border-radius: 2.48vw 11.53vw;
+  border: 0.46vw solid #000;
+  z-index: 1;
+}
+
+
+/* container 3 css Ends */
+
+
+
+
+/* container 4 slider css start */
+
+
+.container4_area{
+display: flex;
+margin-left: 12%;
+margin-right: 12%;
+justify-content: space-between;
+}
+
+.galary>p{
+  color: #000;
+  font-family: Poppins;
+  font-size: 2.43vw;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.viewall{
+margin-top: auto;
+margin-bottom: auto;
+}
+.viewall>p{
+  color: #6D6D6D;
+font-family: Poppins;
+font-size: 1.50vw;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+/* container 4 slider  css Ends */
+
+
+
+/* container 5 slider css start */
+
+.container5{
+  width: 120%;
+  margin-left: -20%;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+/* Center the active carousel item */
+.custom-carousel .react-multi-carousel-item--active {
+  /* Optional: Increase the scale if you want the active card to appear larger */
+  z-index: 1;
+}
+
+/* Half show the carousel items on each side */
+.custom-carousel .react-multi-carousel-item--active + .react-multi-carousel-item {
+  transform: translateX(25%) ; /* Adjust the translateX and scale values as needed */
+  z-index: 2;
+}
+
+.custom-carousel .react-multi-carousel-item--active + .react-multi-carousel-item + .react-multi-carousel-item {
+  transform: translateX(50%) ; /* Adjust the translateX and scale values as needed */
+  z-index: 2;
+}
+* Change the dots to lines */
+.react-multi-carousel-dotList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid red;
+  
+}
+
+.react-multi-carousel-dot {
+  width: 2%; /* Adjust the length of the line */
+  height: 2px; /* Adjust the thickness of the line */
+  background-color: #999; /* Adjust the color of the line */
+  margin: 0 5px; /* Adjust the spacing between the lines */
+  border: 2px solid  #999;
+  border-radius: 10px;
+  margin-left: 1%;
+}
+
+/* Optional: Style the active dot differently */
+.react-multi-carousel-dot--active {
+  border: 2px solid  #999;
+  background-color: #333; /* Adjust the color of the active line */
+}
+/* .slider-flex{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid red;
+  height: 10vw;
+}
+.flex-1{
+  border: 1px solid red;
+  width: 40%;
+}
+.flex-2{
+  display: flex;
+  border: 1px solid red;
+  width: 50%;
+  padding-top: auto;
+} */
+
+/* .slider-component>img{
+  border-radius: 3vw;
+} */
+
+.slider-bottom {
+  color: white;
+  width: 100%;
+  height: 5vw;
+  background-color: rgba(0, 0, 0, 0.51);
+  position: relative;
+  top: -5.2vw;
+  border-bottom-left-radius: 2vw;
+  border-bottom-right-radius: 2vw;
+}
+
+
+.flex-1 {
+ /* margin-top: 1%; */
+ line-height: -100px;
+  flex-basis: 50%;
+
+}
+
+.flex-2 {
+  
+  flex-basis: 50%;
+  /* margin-top: 1%; */
+}
+.flex-2>div{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.slider-flex {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10%;
+}
+
+.slider-font{
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 1vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 123.4%; /* 20.994px */
+}
+
+.icon_area{
+margin-top: 5%;
+height: 50%;
+width: 50%;
+}
+.icon{
+  height: 10%;
+  width: 40%;
+}
+
+.messaage{
+  margin-top: 9%;
+}
+.icon_area>span{
+  color: #FFF;
+font-family: Poppins;
+font-size: 1.63vw;
+font-style: normal;
+font-weight: 600;
+/* line-height: 123.4%;  */
+}
+
+
+
+/* container 5 slider  css Ends */
+
+
+
+
+
+
+
+/* container 6 slider  css starts */
+
+.container6_text_area{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container6_text_area>p{
+  color: #000;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 1.27vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 172%; /* 37.84px */
+}
+
+/* container 6 slider  css Ends */
+
+
+
+
+
+/* container 7 slider  css starts */
+
+.container7_text_area{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 13%;
+  padding-bottom: 13%;
+}
+.container7_text_area>p{
+  color: #000;
+  font-family: Playball;
+  font-size: 1.85vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 94.5%; /* 30.24px */
+}
+
+
+/* container 7 slider  css Ends */
+

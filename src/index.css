@@ -1,0 +1,12 @@
+body {
+ width: 99.6%;
+ height: 100vh;
+ /* border: 1px solid green; */
+ margin: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
