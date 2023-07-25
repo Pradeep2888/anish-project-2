@@ -187,8 +187,8 @@
 
 .avatar2_border {
   position: relative;
-  top: -82vw;
-  height: 78vw;
+  top: -64.5vw;
+  height: 61vw;
   width: 91%;
   border-radius: 3vw;
   margin: auto;
@@ -279,7 +279,7 @@ text-transform: uppercase;
 
 
 .container3{
-  margin-top: -12%;
+  margin-top: -57%;
   /* z-index: 1; */
 }
 .container3_area{
@@ -293,8 +293,8 @@ text-transform: uppercase;
 
 .container3_border{
   position: absolute;
-  top: 144vw;
-  height: 57vw;
+  top: 148vw;
+  height: 58vw;
   width: 93.5%;
   margin-left: 3%;
   margin-right: 3%;
@@ -303,6 +303,11 @@ text-transform: uppercase;
   z-index: 1;
 }
 
+@media screen and (max-width: 1381px) {
+  .container3_border{
+    height: 56vw;
+  }
+}
 
 
 .container4_area{
