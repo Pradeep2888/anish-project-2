@@ -114,7 +114,9 @@ function PageOne() {
             <section className='container31'>
                 <div className="container31_area">
                     <img src={Avatar6} alt='image3'></img>
+                    <div className='pradeep'>
                     <div className='container31_border' ></div>
+                    </div>
                 </div>
             </section>
 
