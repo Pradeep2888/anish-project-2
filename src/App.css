@@ -517,7 +517,7 @@ font-weight: 600;
 
 
 
-@media screen and (max-width: 430px){
+@media screen and (max-width: 430px), screen and (max-height: 932px){
   .container5{
     width: 100%;
     margin-left: 0%;
