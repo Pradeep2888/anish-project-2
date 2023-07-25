@@ -807,8 +807,13 @@ margin-right: auto;
 .container31{
   display:block !important
  }
+
 .container31_area{
   margin-top: -200px;
+}
+.container31_area>img{
+ height: 100%;
+ width: 100%;
 }
 .pradeep{
   height: 10px;
@@ -980,8 +985,8 @@ line-height: normal;
    width: 90%;
 }
 .container31_border{
-  top: 2050px;
-  height: 800px;
+  top: 2100px;
+  height: 750px;
 }
 .container31_area{
   margin-top: -150px;
@@ -996,8 +1001,8 @@ line-height: normal;
     height: 480.5px;
 }
 .container31_border{
-  top: 1950px;
-  height: 800px;
+  top: 2010px;
+  height: 680px;
 }
  }
   @media screen and (max-width: 368px){
@@ -1009,8 +1014,8 @@ line-height: normal;
 }
 
 .container31_border{
-  top: 1910px;
-  height: 800px;
+  top: 1940px;
+  height: 680px;
 }
 
  }
