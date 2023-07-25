@@ -48,7 +48,7 @@ function SlickSlider() {
     >
 
       <div className="slider-component">
-        <img width="100%" src={noprofile}  alt="loading.."></img>
+        <img className='slider_image'  src={noprofile}  alt="loading.."></img>
         <div className="slider-bottom">
           <div className="slider-flex">
             <div className="flex-1">
@@ -69,7 +69,7 @@ function SlickSlider() {
       </div>
       <div className="slider-component">
         <div className="image_slider_area">
-          <img width="100%"  src={noprofile} alt="loading.."></img>
+          <img className='slider_image'  src={noprofile} alt="loading.."></img>
         </div>
         <div className="slider-bottom">
           <div className="slider-flex">
@@ -90,7 +90,7 @@ function SlickSlider() {
         </div>
       </div>
       <div className="slider-component">
-        <img width="100%" src={noprofile}  alt="loading.."></img>
+        <img className='slider_image' src={noprofile}  alt="loading.."></img>
         <div className="slider-bottom">
           <div className="slider-flex">
             <div className="flex-1">
